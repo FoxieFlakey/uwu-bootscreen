@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=uwucat-linux-branded
+Description=uwucat-linux-branded
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/uwucat-linux-branded
+ScriptFile=/usr/share/plymouth/themes/uwucat-linux-branded/uwucat-linux-branded.script
